@@ -11,3 +11,5 @@ function mdc(a, b) {
 }
 
 console.log(mdc(12, 8)); 
+
+module.exports = mdc;

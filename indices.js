@@ -21,6 +21,10 @@ function indiceMaiorMenor(array) {
 
     console.log(`O menor valor é ${menorValor} e está no índice ${indiceMenor}`);
     console.log(`O maior valor é ${maiorValor} e está no índice ${indiceMaior}`);
+
+    return { indiceMenor, indiceMaior };
 }
 
 indiceMaiorMenor([15, 3, 99, 7, 42]);
+
+module.exports = indiceMaiorMenor;
