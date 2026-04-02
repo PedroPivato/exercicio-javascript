@@ -17,6 +17,8 @@ function somaMultiplos() {
     }
 
     console.log(`A soma é ${soma}`);
+    return soma;
 }
 
-somaMultiplos();
+
+module.exports = somaMultiplos;
