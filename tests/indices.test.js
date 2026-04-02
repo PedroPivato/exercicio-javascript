@@ -1,4 +1,4 @@
-const indiceMaiorMenor = require('./indices');
+const indiceMaiorMenor = require ('../src/indices');
 
 describe('Índice Maior e Menor', () => {
 

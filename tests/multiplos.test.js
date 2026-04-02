@@ -1,4 +1,4 @@
-const somaMultiplos = require('./multiplos');
+const somaMultiplos = require('../src/multiplos');
 
 describe('Soma dos Múltiplos', () => {
 
