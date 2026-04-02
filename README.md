@@ -1,2 +1,2 @@
 # exerc-cio-javascript
-Exercícios de Javascript para o curso de Engenharia de Qualidade de Software - EBAC
+Exercícios de Javascript e Testes de Unidade para o curso de Engenharia de Qualidade de Software - EBAC
